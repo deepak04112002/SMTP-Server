@@ -1,3 +1,5 @@
-mail-server-key.pem
+# Ignore PEM key files
+*.pem
+
+# Ignore node_modules directory
 node_modules/
-.gitignore
